@@ -1,2 +1,2 @@
 # exness-trading
-Exness-inspired trading dashboard UI
+Exness- trading 
